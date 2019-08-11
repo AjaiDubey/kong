@@ -187,8 +187,8 @@ If you are asked to update your patch by a reviewer, please do so! Remember:
 you are probably the one in need of it. You must be prepared to apply changes
 to it if necessary.
 
-If your Pull Request was accepted and fixes a bug, adds functionality, or
-makes it significantly easier to use or understand Kong, congratulations!
+If your Pull Request was accepted and it fixed a bug, added functionality, or
+made it significantly easier to use or understand Kong, congratulations!
 You are now an official contributor to Kong. Get in touch with us to receive
 your very own [Contributor T-shirt](#contributor-t-shirt)!
 
