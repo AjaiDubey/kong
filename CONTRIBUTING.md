@@ -496,7 +496,7 @@ language you are using. :smile:
 ### Contributor T-shirt
 
 If your Pull Request to [Kong/kong](https://github.com/Kong/kong) was
-accepted, and it fixes a bug, adds functionality, or makes it significantly
+accepted, and it fixed a bug, added functionality, or made it significantly
 easier to use or understand Kong, congratulations! You are eligible to
 receive the very special Contributor T-shirt! Go ahead and fill out the
 [Contributors Submissions form](https://goo.gl/forms/5w6mxLaE4tz2YM0L2).
